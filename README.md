@@ -17,7 +17,7 @@
 
 4. **Ejecutar comando ``dotnet run`` que ejecutará el archivo principal Program.cs**
 
-5. **Seguir las intrucciones de la consola Seleccionar las distintas opciones del menú**
+5. **Seguir las intrucciones de la consola**
 
 
 
