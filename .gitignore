@@ -9,6 +9,7 @@ obj/
 *_p.c
 *.ncb
 *.suo
+.vscode
 *.tlb
 *.tlh
 *.bak
